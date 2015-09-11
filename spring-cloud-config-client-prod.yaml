@@ -1,0 +1,4 @@
+refreshable:
+ string: prod
+ integer: 2
+encrypted:
