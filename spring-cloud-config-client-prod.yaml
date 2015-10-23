@@ -1,4 +1,4 @@
 refreshable:
- string: prod
- integer: 2
+ string: prod1
+ integer: 21
 encrypted:
